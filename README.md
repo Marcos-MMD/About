@@ -1,3 +1,3 @@
 # About whit me
-I am an English to Spanish translater.I like programming in Java,C++ and Pithon
+I am English to Spanish translator.I like programming in Java,C++ and Pithon
 
